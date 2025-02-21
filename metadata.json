@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nemealan@gmx.com",
+                "Name": "Gapoly"
+            }
+        ],
+        "Category": "",
+        "Description": "Animated Abstract Cube for KDE Plasma 6. Splashscreen inspired by AnimatedAbstract_bku9 for Plasma 5 by Creativity.",
+        "Id": "Animated-Abstract-Cube",
+        "License": "GPLv3",
+        "Name": "Animated Abstract Cube",
+        "Website": "https://github.com/Gapoly"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
