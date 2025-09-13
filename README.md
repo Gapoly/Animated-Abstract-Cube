@@ -1,5 +1,5 @@
 # Animated-Abstract-Cube
-This is an splashcreen for KDE Plasma 6.
+This is a splashcreen for KDE Plasma 6.
 
 ---
 
@@ -9,11 +9,11 @@ This is an splashcreen for KDE Plasma 6.
 
 ## How to use it?
 
-### Method 1 (recommended)
+### Method 1 (recommended) :
 
 Open Discover in Plasma 6 splashcreen search for "Animated Abstract Cube". Install it and enable it.
 
-### Method 2
+### Method 2 :
 
 Copy paste this command into your terminal to download and enable this project.
 
