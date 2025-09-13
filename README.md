@@ -26,4 +26,5 @@ sed -i 's/^Theme=.*/Theme=Animated-Abstract-Cube/' ~/.config/ksplashrc
 ## Credits :
 
 Original author : https://store.kde.org/u/creativity
+
 Fork from AnimatedAbstract_bku9 (KDE Plasma 5) : https://store.kde.org/p/1424150/
